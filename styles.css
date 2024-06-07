@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+#skills{
+	color:green;
+	display:block;
+	padding:10px;
+}
+#projects{
+	border:1px solid pink;
+	float: center;
+}
